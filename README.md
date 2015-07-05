@@ -1,4 +1,4 @@
-# Cleaver
+# Cleaver -use Markdown produce HTML slides
 
 30-second Slideshows for Hackers. http://jdan.github.io/cleaver/
 
